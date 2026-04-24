@@ -25,3 +25,9 @@
 - Cleaner first impression
 - Trust and responsiveness
 - Reasonable pricing
+
+## Website draft direction
+- Hero: San Clemente handyman and house painting with 25+ years of experience
+- Subhead: drywall, painting, small repairs, and home project help
+- CTA: call or text for a quick quote
+- Tone: real, local, and experienced
